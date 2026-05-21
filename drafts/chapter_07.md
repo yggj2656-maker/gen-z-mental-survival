@@ -60,6 +60,16 @@ But this framing reveals the actual problem: you're defining your worth by your 
 
 AI didn't create this equation. It just exposed it. The productivist logic — you are what you produce — was always fragile. AI just proved it, by producing things faster than you ever could. The crisis isn't that AI can do what you do. The crisis is that you never learned to value anything about yourself except your output.
 
+### Why This Hurts More Than It Should
+
+Before we get to the philosophy, let's validate something. The AI anxiety you're feeling is not irrational. It's not technophobia. It's not an overreaction.
+
+For your entire life, you've been told that your mind — your intelligence, your creativity, your ability to learn and solve problems — was the one thing that couldn't be automated. Manual labor got automated in the 20th century. But cognitive labor? That was supposed to be safe. That was supposed to be YOUR domain. That was the bet you were told to make: invest in your brain, and you'll always be valuable.
+
+Now the machines are coming for the brain. The one thing you were told was safe. The one thing that was supposed to be irreducibly human.
+
+The sense of betrayal is real. You played by the rules. You invested where you were told to invest. And now it feels like the game was rigged — or at least, the rules changed without anyone telling you. The anger, the fear, the existential vertigo — it's not weakness. It's a human response to a genuinely disorienting situation. You're not overreacting. You're reacting appropriately to a world that no longer makes the promise it made to you when you were a kid.
+
 ---
 
 ## The Philosophy
