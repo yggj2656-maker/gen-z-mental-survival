@@ -1,0 +1,13 @@
+node_modules/
+.env
+.claude/cache/
+.claude/sessions/
+.claude/shell-snapshots/
+.claude/telemetry/
+.claude/ide/
+.claude/file-history/
+.claude/backups/
+.claude/plans/
+*.log
+.DS_Store
+Thumbs.db
