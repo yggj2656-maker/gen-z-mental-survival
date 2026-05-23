@@ -1,4 +1,4 @@
-# Chapter 2: Why Games Feel More Real Than Reality
+# Chapter 2: Six Hours Building a City
 
 ---
 
@@ -168,4 +168,4 @@ Create a real-life character sheet. Nothing fancy — a phone note works. Pick t
 
 ---
 
-*In the next chapter: Why knowing what to do and not doing it isn't laziness — it might be something else entirely.*
+*Next: The Cursor Blinking — why knowing what to do and not doing it isn't laziness. It might be something else entirely.*

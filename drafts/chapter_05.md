@@ -1,4 +1,4 @@
-# Chapter 5: The Half-Life of Attention
+# Chapter 5: Forty Tabs Open
 
 ---
 
@@ -186,4 +186,4 @@ Once this week, go for a twenty-minute walk without your phone. No music. No pod
 
 ---
 
-*In the next chapter: Why you have a different personality for every platform, what that's doing to your sense of self, and whether an "authentic you" even exists anymore.*
+*Next: The Five Selves — why you have a different personality for every platform, and whether an authentic you exists anymore.*

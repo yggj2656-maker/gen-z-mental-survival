@@ -1,4 +1,4 @@
-# Chapter 7: AI Took My Future
+# Chapter 7: Twenty Dollars a Month
 
 ---
 
@@ -182,4 +182,4 @@ Spend an entire afternoon doing things that produce nothing of value. No product
 
 ---
 
-*In the final chapter: The scariest question of all — what if nothing feels worth wanting anymore? How to rebuild desire from flatness, and why caring again is possible even when it feels impossible.*
+*Next: What the Dog Knew — the scariest question of all. What if nothing feels worth wanting? How wanting comes back.*

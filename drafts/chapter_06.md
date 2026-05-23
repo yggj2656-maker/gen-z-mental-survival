@@ -1,4 +1,8 @@
-# Chapter 6: Who Am I When No One's Watching?
+# PART III: THE RECKONING
+
+---
+
+# Chapter 6: The Five Selves
 
 ---
 
@@ -174,4 +178,4 @@ For three days, track what you actually do — not what you post, not what you t
 
 ---
 
-*In the next chapter: What happens to your identity when machines can do everything you can — the existential threat of AI, and what's left of being human when being human isn't economically valuable anymore.*
+*Next: Twenty Dollars a Month — what happens when machines can do everything you can, and what's left of being human.*

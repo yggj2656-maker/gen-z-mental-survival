@@ -1,4 +1,8 @@
-# Chapter 3: You're Not Lazy, You're Overwhelmed
+# PART II: THE CRACKS
+
+---
+
+# Chapter 3: The Cursor Blinking
 
 ---
 
@@ -150,4 +154,4 @@ Every time you catch yourself thinking "I should ____" this week, rephrase it. O
 
 ---
 
-*In the next chapter: Why you have hundreds of contacts and still feel alone — the difference between audience and community.*
+*Next: 500 Friends and No One to Call — the difference between audience and community, and what it costs to confuse them.*

@@ -152,4 +152,4 @@ For one week, don't post. No stories. No updates. No content. Instead, have one 
 
 ---
 
-*In the next chapter: Where your attention actually went — why you used to be able to read books and what changed.*
+*Next: Forty Tabs Open — where your attention actually went, and why you used to be able to read books.*

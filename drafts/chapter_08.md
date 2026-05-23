@@ -1,4 +1,4 @@
-# Chapter 8: How to Want Things Again
+# Chapter 8: What the Dog Knew
 
 ---
 
