@@ -102,7 +102,7 @@ You didn't choose this belief. You were born into it.
 
 But it's there, running in the background, and it's why "I didn't get anything done today" feels like a confession rather than a description. It's why resting produces actual guilt — like you've done something wrong. It's why you call yourself lazy when what you are is depleted. The voice that says "you should be working" is not your voice. It's a cultural inheritance wearing your face.
 
-Bertrand Russell wrote about this in 1932. The essay is called "In Praise of Idleness." I came across it because someone mentioned it in passing, not in a class. He pointed out that the belief that work is inherently virtuous was relatively recent — a few hundred years old at most. For most of human history, people worked to meet their needs and then stopped. They rested. They talked. They played. The idea of being productive every waking hour would have seemed bizarre to them. Insane, probably.
+Bertrand Russell wrote about this in 1932. The essay is called "In Praise of Idleness." He pointed out that the belief that work is inherently virtuous was relatively recent — a few hundred years old at most. For most of human history, people worked to meet their needs and then stopped. They rested. They talked. They played. The idea of being productive every waking hour would have seemed bizarre to them. Insane, probably.
 
 The psychoanalyst Karen Horney had a phrase for it: "the tyranny of the shoulds." Internal demands that operate less like goals and more like a punishment system. "Should" creates pressure without creating motivation. It tells you you're failing without telling you what to do differently.
 

@@ -60,7 +60,7 @@ It's too simple. You're not just running away from real life. You're running tow
 
 ## The Psychology
 
-In the 1980s, two researchers named Edward Deci and Richard Ryan developed something called Self-Determination Theory. I came across it a while ago — not in a textbook, someone sent me an article — and it clarified a lot of things I'd been feeling but couldn't name.
+In the 1980s, two researchers named Edward Deci and Richard Ryan developed something called Self-Determination Theory. It clarified a lot of things I'd been feeling but couldn't name — why some activities pull you in and others push you away, why you can't discipline yourself into caring about something that doesn't meet any of your actual needs.
 
 Their argument was straightforward. Human motivation — the real kind, where you don't have to force yourself, where you just *want* to do the thing — depends on three things being present. Not one. Not two. All three.
 
