@@ -4,6 +4,9 @@
       "Bash(git add *)",
       "Bash(git commit -m ' *)",
       "Bash(git push *)"
+    ],
+    "additionalDirectories": [
+      "c:\\Users\\a\\.claude\\projects\\c--Users-a-Desktop--\\memory"
     ]
   },
   "mcpServers": {
