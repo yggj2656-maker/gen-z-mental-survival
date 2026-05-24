@@ -24,6 +24,10 @@ This book is intended for informational and educational purposes only. It is not
 
 ## A Note Before You Start
 
+Some of the stories in this book are composite portraits drawn from patterns the author has observed across many conversations, rather than direct accounts of specific individuals. Names and identifying details have been changed.
+
+---
+
 This is not a self-help book.
 
 I don't have my life figured out. I'm not going to tell you Five Simple Steps to fix everything. I'm not going to talk to you like you've been failing at something obvious. Most self-help books make me feel like I'm being sold something. I didn't want to write one of those.

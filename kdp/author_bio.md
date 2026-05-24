@@ -4,7 +4,7 @@
 
 For years, they watched the same pattern repeat — friends, peers, an entire generation struggling with the same cluster of problems — scrolling that never satisfies, loneliness that followers can't fix, motivation that won't start, a sense that something essential is missing. The academic research was there. The philosophical frameworks were there. But nobody was connecting them in language that felt like someone actually talking to you.
 
-*Always Online, Never Here* is that connection. It draws on existentialist philosophy, behavioral neuroscience, and hundreds of hours of conversations with people navigating the same digital landscape — weaving research and real experience into something both intellectually grounded and genuinely useful.
+*Always Online, Never Here* is that connection. It draws on existentialist philosophy, behavioral neuroscience, and patterns observed across years of conversation with people navigating the same digital landscape — weaving research and lived experience into something both intellectually grounded and genuinely useful.
 
 Moon lives and works online. This is their first book.
 
