@@ -18,21 +18,21 @@ This is not a personal failure. This is what happens when an entire generation g
 
 ### What's Inside:
 
-**The Scroll and the Void** — Why infinite content produces infinite emptiness, and what Pascal (a 17th-century philosopher who never saw a smartphone) understood about your TikTok habit.
+**47 Videos Later** — Why infinite content produces infinite emptiness, and what a 17th-century philosopher who never saw a smartphone understood about your TikTok habit.
 
-**Why Games Feel More Real Than Reality** — What video games get right about human motivation that school, work, and everyday life keep getting wrong — and how to bring the best parts of gaming into your actual existence.
+**Six Hours Building a City** — What video games get right about human motivation that school, work, and everyday life keep getting wrong — and how to bring the best parts of gaming into your actual existence.
 
-**You're Not Lazy, You're Overwhelmed** — The neuroscience of why you can't "just start," and why everything you've been told about discipline is making the problem worse.
+**The Cursor Blinking** — The neuroscience of why you can't "just start," and why everything you've been told about discipline is making the problem worse.
 
 **500 Friends and No One to Call** — The difference between an audience and a community, and why your follower count will never solve your loneliness.
 
-**The Half-Life of Attention** — Where your focus actually went (spoiler: it was extracted, deliberately, by people who profit from your distraction), and how to get it back without becoming a monk.
+**Forty Tabs Open** — Where your focus actually went (spoiler: it was extracted, deliberately, by people who profit from your distraction), and how to get it back without becoming a monk.
 
-**Who Am I When No One's Watching?** — Why you have a different personality for every platform, what that's doing to your sense of self, and how to find the person behind the profiles.
+**The Five Selves** — Why you have a different personality for every platform, what that's doing to your sense of self, and how to find the person behind the profiles.
 
-**AI Took My Future** — The existential threat of AI isn't your job. It's your sense of being human. This chapter is about what machines cannot take from you.
+**Twenty Dollars a Month** — The existential threat of AI isn't your job. It's your sense of being human. This chapter is about what machines cannot take from you.
 
-**How to Want Things Again** — The real way out of flatness, numbness, and the shrug where desire used to be. (Hint: you don't think your way out. You do your way out.)
+**What the Dog Knew** — The real way out of flatness, numbness, and the shrug where desire used to be.
 
 ---
 
