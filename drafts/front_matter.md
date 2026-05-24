@@ -26,12 +26,14 @@ This book is intended for informational and educational purposes only. It is not
 
 This is not a self-help book.
 
-At least, not in the way that phrase has come to mean: a person who has it all figured out, telling you the Five Simple Steps to fix your entire life, in a tone that suggests you've been failing at something obvious.
+I don't have my life figured out. I'm not going to tell you Five Simple Steps to fix everything. I'm not going to talk to you like you've been failing at something obvious. Most self-help books make me feel like I'm being sold something. I didn't want to write one of those.
 
-This is a philosophy book that happens to be useful. It's about ideas — old ones from dead philosophers and new ones from living scientists — applied to problems you actually have. It assumes you're intelligent but exhausted. Curious but burned out. Ready for something real but allergic to anything that sounds like a motivational Instagram post.
+This is a philosophy book that happens to be useful. It's about ideas — old ones from dead philosophers, newer ones from scientists who study how brains actually work — applied to problems you probably recognize. It assumes you're smart but tired. Curious but burned out. Open to something real but allergic to anything that sounds like a motivational Instagram post.
 
-The book is structured so you can read it straight through, or jump to whichever chapter addresses the thing that's most on your mind right now. Each chapter solves one specific problem. Each chapter ends with exercises you can actually do — not the kind that require a complete personality transplant, but the kind that meet you where you are.
+You can read it straight through. Or you can jump to whatever chapter is closest to what's on your mind right now. Each one addresses a specific problem. Each one ends with exercises you can actually do — not the kind that require becoming a different person, but the kind that meet you where you are.
 
-You don't need to believe anything in particular before you start. You don't need to be "ready to change." You just need to be here, reading, which you already are.
+You don't need to believe anything in particular before you start. You don't need to be "ready to change." You just need to be here, reading.
+
+Which you already are.
 
 Let's begin.

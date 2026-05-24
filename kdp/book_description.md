@@ -10,7 +10,7 @@
 
 You scroll for three hours and feel hollow. You log into a game that feels more meaningful than your actual life. You know exactly what you should be doing, but you still can't start. Your group chats are always active, but when 2 AM comes and something's really wrong, there's no one you can actually call.
 
-This is not a personal failure. This is what happens when an entire generation grows up inside systems that were designed to extract attention, monetize connection, and leave the human underneath wondering if they still exist.
+This is not a personal failure. This is what happens when an entire generation grows up inside systems designed to extract attention, monetize connection, and leave the human underneath wondering if they still exist.
 
 **Always Online, Never Here** is not another "delete your apps" lecture. It's a philosophy book for people who grew up on the internet — written in language that actually sounds like you, about problems you actually have.
 
@@ -18,17 +18,17 @@ This is not a personal failure. This is what happens when an entire generation g
 
 ### What's Inside:
 
-**47 Videos Later** — Why infinite content produces infinite emptiness, and what a 17th-century philosopher who never saw a smartphone understood about your TikTok habit.
+**47 Videos Later** — Why infinite content produces infinite emptiness. And what a 17th-century philosopher who never saw a smartphone understood about your TikTok habit.
 
-**Six Hours Building a City** — What video games get right about human motivation that school, work, and everyday life keep getting wrong — and how to bring the best parts of gaming into your actual existence.
+**Six Hours Building a City** — What video games get right about human motivation that school, work, and everyday life keep getting wrong. And how to bring the best parts of gaming into your actual existence.
 
-**The Cursor Blinking** — The neuroscience of why you can't "just start," and why everything you've been told about discipline is making the problem worse.
+**The Cursor Blinking** — The neuroscience of why you can't "just start." Why everything you've been told about discipline is probably making the problem worse.
 
-**500 Friends and No One to Call** — The difference between an audience and a community, and why your follower count will never solve your loneliness.
+**500 Friends and No One to Call** — The difference between an audience and a community. Why your follower count will never solve your loneliness, no matter how high it gets.
 
-**Forty Tabs Open** — Where your focus actually went (spoiler: it was extracted, deliberately, by people who profit from your distraction), and how to get it back without becoming a monk.
+**Forty Tabs Open** — Where your focus actually went. It was extracted, deliberately, by people who profit from your distraction. Here's how to get it back without becoming a monk.
 
-**The Five Selves** — Why you have a different personality for every platform, what that's doing to your sense of self, and how to find the person behind the profiles.
+**The Five Selves** — Why you have a different personality for every platform. What that's doing to your sense of self. How to find the person behind the profiles.
 
 **Twenty Dollars a Month** — The existential threat of AI isn't your job. It's your sense of being human. This chapter is about what machines cannot take from you.
 
@@ -48,8 +48,8 @@ This is not a personal failure. This is what happens when an entire generation g
 
 ### Each Chapter Includes:
 - A specific problem you actually recognize
-- The psychology explained clearly (no jargon)
-- The philosophy made relevant (no textbooks)
+- The psychology explained clearly, without jargon
+- The philosophy made relevant, without textbooks
 - Real stories from real people your age
 - Practical steps that acknowledge how hard starting is
 - Reflection exercises you'll actually do
