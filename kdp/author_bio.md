@@ -1,10 +1,12 @@
 # Author Bio
 
-**Moon** writes about philosophy, psychology, and what it's like to grow up in a world the human brain was never designed for.
+**Moon** is a writer and researcher at the intersection of philosophy, psychology, and digital culture. Their work addresses the questions that keep people up at night: What makes a life feel real? Why does so much of modern experience feel hollow? And what do we actually do about it?
 
-They didn't set out to write a book. They started writing because the ideas that helped them — old philosophy, new psychology, things people had been thinking about for centuries — were almost never explained in a way that felt relevant to actually being alive right now. Philosophy shouldn't sound like a lecture. It should sound like a conversation. The best ideas are the ones that actually help.
+For years, they watched the same pattern repeat — friends, peers, an entire generation struggling with the same cluster of problems — scrolling that never satisfies, loneliness that followers can't fix, motivation that won't start, a sense that something essential is missing. The academic research was there. The philosophical frameworks were there. But nobody was connecting them in language that felt like someone actually talking to you.
 
-*Always Online, Never Here* is their first book.
+*Always Online, Never Here* is that connection. It draws on existentialist philosophy, behavioral neuroscience, and hundreds of hours of conversations with people navigating the same digital landscape — weaving research and real experience into something both intellectually grounded and genuinely useful.
+
+Moon lives and works online. This is their first book.
 
 Connect with the author:
 
@@ -18,4 +20,4 @@ Connect with the author:
 
 *Alternative bio (shorter, for Amazon):*
 
-**Moon** writes at the messy intersection of philosophy and psychology for people who grew up online. They believe the best ideas sound like someone talking to you, not someone teaching at you. *Always Online, Never Here* is their first book.
+**Moon** writes at the intersection of philosophy, psychology, and digital culture. *Always Online, Never Here* bridges academic research and lived experience — existentialist philosophy and behavioral neuroscience applied to the real problems of growing up online. This is their first book.
